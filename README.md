@@ -1,24 +1,7 @@
-# README
+##Hey there##
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Thanks for coming by! :smiley:
 
-Things you may want to cover:
+This really simple app is just a part of *Micheal Hartl's _"Ruby on Rails Tutorial"_*, which I am trying to complete. :muscle:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Keep yours fingers crossed for me, cause I need ii. :scream:
